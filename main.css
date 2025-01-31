@@ -1,0 +1,290 @@
+.row{
+	width: 100%;
+	display: flex;
+	border: 1px;
+}
+.col-1{
+	width: 8.3%;
+	border: 10px;
+
+	 
+}
+.col-2{
+	width: 16.67%;
+	border: 1px;
+	 
+}
+.col-3{
+	width: 25%;
+	border: 1px;
+	 
+}
+.col-4{
+	width: 33.33%;
+	border: 1px;
+	 
+}
+.col-5{
+	width: 41.16%;
+	 height: 200;
+	 border:1px ;
+}
+.col-6{
+	width: 800%;
+	border: ;
+	 
+}	 
+.col-7{
+	width: 58%;
+	 
+}
+.col-8{
+	width: 66.67%;
+	 
+}
+.col-9{
+	width: 75%;
+	 
+}
+.col-10{
+	width: 83.33%;
+	 
+}
+.col-11{
+	width: 91.6%;
+ }
+.col-12{
+	width: 400%;
+	height: 800px;
+}
+.nav{
+	list-style-type: none;
+	display: flex;
+	border: 1px;
+}
+li{
+	font-family:"montserrit" sans-serif;
+	font-weight: 200;
+	font-size: 17;
+	 margin: 0px 10px 0px 10px;
+	 border: 1px;
+}
+.nav-style{
+	text-decoration: none;
+	padding: 5px;
+	color: #000;
+	border: 1px;
+}
+.heading{
+	text-align: center;
+}
+.hero{
+	background-image: url("../images/image2.jpeg");
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.hero h1{
+	color: white;
+	text-align:  center;
+}
+.hero1{
+	padding-top: 30rem;
+}
+.hero2{
+	background-image: url("../images/image4.jpeg");
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.hero3{
+	color: white;
+	background-color: revert;
+	padding-top: 30rem;
+	text-align: center;
+} 
+.p{
+	text-align: center;
+	paddingz: 5px;
+
+}
+ .contain{
+ 	background-image: url("../images/image5.jpeg");
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight: 200;
+	font-size: 17;
+}
+.contain1{
+	background-image: url("../images/image5.jpeg");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	margin: 5px 5px 5px 5px;
+}
+.contain2{
+	background-image: url("../images/image6.jpeg");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	margin: 5px 5px 5px 5px;
+}
+.contain3{
+	background-image: url("../images/inunzoz.jpeg");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	margin: 5px 5px 5px 5px;
+}
+.contain4{
+	background-image: url("../images/pro2.jpeg");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	margin: 5px 5px 5px 5px;
+} 
+.p1{
+	 color: white;
+	text-align:center;
+	padding-top:8rem;
+}
+.p2{
+	 color: white;
+	text-align:center;
+	padding-top:8rem;
+}
+.p3{ color:black;
+	text-align:center;
+	padding-top:6rem;
+}
+.p4{
+	 color: white;
+	text-align:center;
+	padding-top:8rem;
+}
+.contain2{
+	background-image: url("../images/pro.jpeg");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	font-size: 10;
+}
+.contain3{
+	background-image: url("../images/chol1.jpg");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	font-size: 10;
+}
+.contain4{
+	background-image: url("../images/image4.jpeg");
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+}
+.about{
+	text-align: center;
+	 
+}
+.hello{
+	background-image: url("../images/image3.jpeg");
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+}
+.baby{
+	 color: white;
+	 text-align:center;
+	padding-top:40rem;
+}
+.dear{
+	background-image: url("../images/image1.jpeg");
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	}
+	 .da{
+	 	color: white;
+	 text-align:center;
+	padding-top:20rem;
+
+}
+.yeah{
+	borader-line:black;
+	font-weight: 200;
+}
+
+}
+}
+ 
+.dear1{
+	   background-image: url("../images/image5.jpeg");
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+	}
+
+	.db{
+		color: white;
+	 text-align:center;
+	padding-top:20rem;
+}
+ .dear2{
+	   background-image: url("../images/image1.jpeg");
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight:200;
+}
+.dc{
+	color: white;
+	 text-align:center;
+	padding-top:20rem;
+}
+.sherif{
+	text-align: center;
+	padding-top: px;
+	background-image: url("../images/parrot.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: px;
+	color: white;
+	width: 200%;
+	height: 400px;
+	font-size: 20px;
+	
+
+
+}
+.text-bg{
+	padding-top: 120px,0px;
+	background-color: rgba(0, 0, 0,0.);
+
+
+}
+.gradient{
+	height: 400px;
+	background-image: linear-gradient(to right,black,blue,white);
+}
+.git{
+	color: red;
+}
+ 
+
+ 
+
+
+ 
+
+  
