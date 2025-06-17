@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Travischol
 - 👀 I’m interested in code programming and crypto business
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on web designing
+- 🌱 I’m currently learning application development 
+- 💞️ I’m looking to collaborate on web designing and application development 
 - 📫 How to reach me @travissherif on facebook
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love code cheat
